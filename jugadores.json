@@ -1,0 +1,68 @@
+{
+    "equipo1": [
+      {
+        "nombre": "Maria Lucia Perez",
+        "edad": "25",
+        "posicion":"Colocador"
+      },
+      {
+        "nombre": "Matty Sanchez",
+        "edad": "22",
+        "posicion": "Rematador"
+      },
+      {
+        "nombre": "Nero Perez",
+        "edad": "24",
+        "posicion": "Opuesto"
+      },
+      {
+        "nombre": "Julio Jaramillo",
+        "edad": "26",
+        "posicion": "Central o Bloqueador"
+      },
+      {
+        "nombre": "Marco Rojas",
+        "edad": "24",
+        "posicion": "Libero"
+      },
+      {
+        "nombre": "Benito Suarez",
+        "edad": "27",
+        "posicion": "Atacante exterior derecho"
+      }
+    ],
+
+    "equipo2": [
+      {
+        "nombre": "Maria Perez",
+        "edad": "25",
+        "posicion": "Colocador"
+      },
+      {
+        "nombre": "Andres Soto",
+        "edad": "23",
+        "posicion": "Rematador"
+      },
+      {
+        "nombre": "Marlon Cruz",
+        "edad": "22",
+        "posicion": "Opuesto"
+      },
+      {
+        "nombre": "Manuel Foco",
+        "edad": "24",
+        "posicion": "Central o Bloqueador"
+      },
+      {
+        "nombre": "Marco Molina",
+        "edad": "26",
+        "posicion": "Libero"
+      },
+      {
+        "nombre": "Jonas Lopez",
+        "edad": "27",
+        "posicion": "Atacante exterior derecho"
+      }
+    ]
+  }
+  

@@ -1,0 +1,52 @@
+{
+    "Encuentros":[
+       {
+        "equipo_local":"Brasil",
+        "equipo_visitante":"Argentina",
+        "arbitro_principal":"Yosvany Soler",
+        "ganador":"Brasil"
+       },
+       {
+         "equipo_local":"Colombia",
+        "equipo_visitante":"España",
+        "arbitro_principal":"Denny Setiawan",
+        "ganador":"Colombia"
+       },
+       {
+         "equipo_local":"Japon",
+         "equipo_visitante":"Indonesia",
+         "arbitro_principal":"Hernan Cassi",
+         "ganador":"Japon"
+       },
+       {
+         "equipo_local":"Francia",
+         "equipo_visitante":"Estados Unidos",
+         "arbitro_principal":"Yeison García",
+         "ganador":"Estados Unidos"
+       },
+       {
+         "equipo_local":"Peru",
+         "equipo_visitante":"Mexico",
+         "arbitro_principal":"Martha Cifuentes",
+         "ganador":"Mexico"
+       },
+       {
+         "equipo_local":"Canada",
+        "equipo_visitante":"Uruguay",
+        "arbitro_principal":"Fabiana de Oliveira",
+        "ganador":"Brasil"
+       },
+       {
+         "equipo_local":"China",
+         "equipo_visitante":"Holanda",
+         "arbitro_principal":"Karin Lundqvist",
+         "ganador":"China"
+       },
+       {
+         "equipo_local":"República Dominicana",
+        "equipo_visitante":"Italia",
+        "arbitro_principal":"Ursula Rivera",
+        "ganador":"Brasil"
+       }
+       
+    ]}

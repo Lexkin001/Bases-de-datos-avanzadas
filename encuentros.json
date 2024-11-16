@@ -1,0 +1,45 @@
+{
+    "Encuentro1": {
+      "Equipos Participantes": {
+        "Equipo 1": "Equipo A",
+        "Equipo 2": "Equipo B"
+      },
+      "Detalles del Encuentro": {
+        "Lugar": "Bogotá DC",
+        "Fecha": "2024-04-27",
+        "Árbitro": "Hernan"
+      },
+      "Facilidades": {
+        "Equipos Disponibles": "Balones de voleibol, redes, postes"
+      }
+    },
+    "Encuentro2": {
+      "Equipos Participantes": {
+        "Equipo 1": "Equipo C",
+        "Equipo 2": "Equipo D"
+      },
+      "Detalles del Encuentro": {
+        "Lugar": "Bogotá DC",
+        "Fecha": "2024-04-28",
+        "Árbitro": "Ursula"
+      },
+      "Facilidades": {
+        "Equipos Disponibles": "Balones de voleibol, redes, postes"
+      }
+    },
+    "Encuentro3": {
+      "Equipos Participantes": {
+        "Equipo 1": "Equipo E",
+        "Equipo 2": "Equipo F"
+      },
+      "Detalles del Encuentro": {
+        "Lugar": "Bogotá DC",
+        "Fecha": "2024-04-29",
+        "Árbitro": "Yosvani"
+      },
+      "Facilidades": {
+        "Equipos Disponibles": "Balones de voleibol, redes, postes"
+      }
+    }
+  }
+  

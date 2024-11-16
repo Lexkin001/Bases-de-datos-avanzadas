@@ -1,0 +1,67 @@
+{
+  "_id": {
+    "$oid": "66523479dc3f4ee30e58c8c5"
+  },
+  "equipos_de_voleibol": [
+    {
+      "pais": "Brasil",
+      "ranking_mundial": 1,
+      "capitan": "Bruno Rezende",
+      "entrenador": "Renan Dal Zotto"
+    },
+    {
+      "pais": "Estados Unidos",
+      "ranking_mundial": 2,
+      "capitan": "Micah Christenson",
+      "entrenador": "John Speraw"
+    },
+    {
+      "pais": "Italia",
+      "ranking_mundial": 3,
+      "capitan": "Ivan Zaytsev",
+      "entrenador": "Gianlorenzo Blengini"
+    },
+    {
+      "pais": "Polonia",
+      "ranking_mundial": 4,
+      "capitan": "Michał Kubiak",
+      "entrenador": "Vital Heynen"
+    },
+    {
+      "pais": "Rusia",
+      "ranking_mundial": 5,
+      "capitan": "Egor Kliuka",
+      "entrenador": "Tuomas Sammelvuo"
+    },
+    {
+      "pais": "Francia",
+      "ranking_mundial": 6,
+      "capitan": "Benjamin Toniutti",
+      "entrenador": "Laurent Tillie"
+    },
+    {
+      "pais": "Serbia",
+      "ranking_mundial": 7,
+      "capitan": "Aleksandar Atanasijević",
+      "entrenador": "Slobodan Kovač"
+    },
+    {
+      "pais": "Argentina",
+      "ranking_mundial": 8,
+      "capitan": "Luciano De Cecco",
+      "entrenador": "Marcelo Méndez"
+    },
+    {
+      "pais": "Japón",
+      "ranking_mundial": 9,
+      "capitan": "Yūki Ishikawa",
+      "entrenador": "Yuichi Nakagaichi"
+    },
+    {
+      "pais": "Irán",
+      "ranking_mundial": 10,
+      "capitan": "Saeid Marouf",
+      "entrenador": "Igor Kolaković"
+    }
+  ]
+}

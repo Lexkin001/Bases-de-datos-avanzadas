@@ -1,0 +1,142 @@
+{
+  "resultados": [
+    {
+      "encuentro": "Encuentro1",
+      "equipos_participantes": {
+        "Equipo 1": "Equipo A",
+        "Equipo 2": "Equipo B"
+      },
+      "detalle_encuentro": {
+        "lugar": "Bogotá DC",
+        "fecha": "2024-04-27",
+        "árbitro": "Hernan"
+      },
+      "resultado": "No disponible"
+    },
+    {
+      "encuentro": "Encuentro2",
+      "equipos_participantes": {
+        "Equipo 1": "Equipo C",
+        "Equipo 2": "Equipo D"
+      },
+      "detalle_encuentro": {
+        "lugar": "Bogotá DC",
+        "fecha": "2024-04-28",
+        "árbitro": "Ursula"
+      },
+      "resultado": "No disponible"
+    },
+    {
+      "encuentro": "Encuentro3",
+      "equipos_participantes": {
+        "Equipo 1": "Equipo E",
+        "Equipo 2": "Equipo F"
+      },
+      "detalle_encuentro": {
+        "lugar": "Bogotá DC",
+        "fecha": "2024-04-29",
+        "árbitro": "Yosvani"
+      },
+      "resultado": "No disponible"
+    },
+    {
+      "encuentro": "Encuentro4",
+      "equipos_participantes": {
+        "Equipo 1": "Brasil",
+        "Equipo 2": "Argentina"
+      },
+      "detalle_encuentro": {
+        "lugar": "No disponible",
+        "fecha": "No disponible",
+        "árbitro": "Yosvany Soler"
+      },
+      "resultado": "Brasil"
+    },
+    {
+      "encuentro": "Encuentro5",
+      "equipos_participantes": {
+        "Equipo 1": "Colombia",
+        "Equipo 2": "España"
+      },
+      "detalle_encuentro": {
+        "lugar": "No disponible",
+        "fecha": "No disponible",
+        "árbitro": "Denny Setiawan"
+      },
+      "resultado": "Colombia"
+    },
+    {
+      "encuentro": "Encuentro6",
+      "equipos_participantes": {
+        "Equipo 1": "Japon",
+        "Equipo 2": "Indonesia"
+      },
+      "detalle_encuentro": {
+        "lugar": "No disponible",
+        "fecha": "No disponible",
+        "árbitro": "Hernan Cassi"
+      },
+      "resultado": "Japon"
+    },
+    {
+      "encuentro": "Encuentro7",
+      "equipos_participantes": {
+        "Equipo 1": "Francia",
+        "Equipo 2": "Estados Unidos"
+      },
+      "detalle_encuentro": {
+        "lugar": "No disponible",
+        "fecha": "No disponible",
+        "árbitro": "Yeison García"
+      },
+      "resultado": "Estados Unidos"
+    },
+    {
+      "encuentro": "Encuentro8",
+      "equipos_participantes": {
+        "Equipo 1": "Peru",
+        "Equipo 2": "Mexico"
+      },
+      "detalle_encuentro": {
+        "lugar": "No disponible",
+        "fecha": "No disponible",
+        "árbitro": "Martha Cifuentes"
+      },
+      "resultado": "Mexico"
+    },
+    {
+      "encuentro": "Encuentro9",
+      "equipos_participantes": {
+        "Equipo 1": "Canada",
+        "Equipo 2": "Uruguay"
+      },
+      "detalle_encuentro": {
+        "lugar": "No disponible",
+        "fecha": "No disponible",
+        "árbitro": "Fabiana de Oliveira"
+      },
+      "resultado": "Brasil"
+    },
+    {
+      "encuentro": "Encuentro10",
+      "equipos_participantes": {
+        "Equipo 1": "China",
+        "Equipo 2": "Holanda"
+      },
+      "detalle_encuentro": {
+        "lugar": "No disponible",
+        "fecha": "No disponible",
+        "árbitro": "Karin Lundqvist"
+      },
+      "resultado": "China"
+    }
+  ],
+  "economia": {
+    "gastos_totales": 15000,
+    "detalle_gastos": {
+      "alquiler_instalaciones": 8000,
+      "equipos_voleibol": 3000,
+      "honorarios_arbitros": 4000
+    }
+  }
+}

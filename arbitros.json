@@ -1,0 +1,52 @@
+{
+    "Arbitros":[
+       {
+        "nombre":"Hernan Cassi",
+        "edad":52,
+        "nacionalidad":"Argentino",
+        "años_experiencia":30
+       },
+       {
+        "nombre":"Yosvany Soler",
+        "edad":54,
+        "nacionalidad":"Cubano",
+        "años_experiencia":32
+       },
+       {
+        "nombre":"Ursula Rivera",
+        "edad":45,
+        "nacionalidad":"Puertorriqueña",
+        "años_experiencia":23
+       },
+       {
+        "nombre":"Karin Lundqvist",
+        "edad":47,
+        "nacionalidad":"Sueco",
+        "años_experiencia":25
+       },
+       {
+        "nombre":"Denny Setiawan",
+        "edad":51,
+        "nacionalidad":"Indonesio",
+        "años_experiencia":29
+       },
+       {
+        "nombre":"Fabiana de Oliveira",
+        "edad":49,
+        "nacionalidad":"Brasileña",
+        "años_experiencia":27
+       },
+       {
+        "nombre":"Yeison García",
+        "edad":40,
+        "nacionalidad":"Colombiano",
+        "años_experiencia":14
+       },
+       {
+        "nombre":"Martha Cifuentes",
+        "edad":43,
+        "nacionalidad":"Colombiana",
+        "años_experiencia":20
+       }
+       
+    ]}
